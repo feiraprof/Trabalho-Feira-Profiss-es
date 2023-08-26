@@ -4,9 +4,14 @@
     margin: 0;
 }
 
-/* :root {
-    color
-} */
+:root {
+    --font-color: #8FF7CD;
+    --second-font-color: #3CDD96;
+    --trd-font-color: #9B99AD;
+    --opc-font-color: #05FB8B;
+    --main-bg-color: #2A253B;
+    --body-color: #1F1B2C;
+} 
 
 html {
     height: 100%;
