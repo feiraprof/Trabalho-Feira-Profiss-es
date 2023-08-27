@@ -44,6 +44,7 @@ header h2, h3 {
 main {
     display: flex;
     justify-content: center;
+    flex-direction: column;
     margin: auto;
     width: 500px;
     margin-top: 1.5rem;
