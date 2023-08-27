@@ -32,7 +32,7 @@ header h1 {
     justify-content: center;
     padding: 1.5rem;
     text-transform: uppercase;
-    width: 100vw;
+    width: 100%;
 }
 
 header h2, h3 {
