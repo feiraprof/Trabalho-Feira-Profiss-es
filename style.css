@@ -7,7 +7,7 @@
 :root {
     --font-color: #8FF7CD;
     --second-font-color: #3CDD96;
-    --trd-font-color: #9B99AD;
+    --trd-font-color: #f4f4f4;
     --opc-font-color: #05FB8B;
     --main-bg-color: #2A253B;
     --body-color: #1F1B2C;
@@ -85,7 +85,7 @@ span {
 img {
     display: flex;
     justify-content: center;
-    width: 400px;
+    width: 450px;
     margin: auto;
     border-radius: 10px;
 }
