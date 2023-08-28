@@ -135,7 +135,7 @@ footer li {
     color: var(--font-color);
 }
 
- @media (max-width: 450px) {
+@media (max-width: 450px) {
     body {
         display: flex;
         flex-direction: column;
