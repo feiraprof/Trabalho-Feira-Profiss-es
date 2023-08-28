@@ -46,8 +46,22 @@ main {
     justify-content: center;
     flex-direction: column;
     margin: auto;
-    width: 500px;
+    width: 450px;
     margin-top: 1.5rem;
+}
+
+img {
+    display: flex;
+    justify-content: center;
+    width: 450px;
+}
+
+ul {
+    margin-left: 1.1rem;
+}
+
+li::marker {
+    width: 1rem;
 }
 
 /* footer {
