@@ -134,3 +134,11 @@ footer li {
     justify-content: center;
     color: var(--font-color);
 }
+
+ @media (max-width: 450px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+} 
