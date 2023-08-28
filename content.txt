@@ -20,10 +20,10 @@ Para  o aluno obter a pontuação total :
 
 •Que empresas empregam tais profissionais? * ✅
 
-•Qual a média salarial desse profissional? Essa média em forma de gráfico (maquete). *
+•Qual a média salarial desse profissional? Essa média em forma de gráfico (maquete). * ✅
 
-•Que cursos/faculdades/universidades podemos encontrar essa especialização? *
+•Que cursos/faculdades/universidades podemos encontrar essa especialização? * ✅
 
-•Quais são as disciplinas necessárias para a formação desse profissional? *
+•Quais são as disciplinas necessárias para a formação desse profissional? * ✅
 
 Podem acrescentar o que acharem de relevância também. 
