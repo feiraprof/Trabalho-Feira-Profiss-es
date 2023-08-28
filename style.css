@@ -38,11 +38,18 @@ header h1 {
     color: var(--font-color);
 }
 
-header h2, h3 {
+header h3 {
     display: flex;
     justify-content: center;
     padding: 1.5rem;
     color: var(--font-color);
+}
+
+header h2, .student {
+    display: flex;
+    justify-content: center;
+    padding: 1.5rem;
+    color: var(--trd-font-color);
 }
 
 main {
